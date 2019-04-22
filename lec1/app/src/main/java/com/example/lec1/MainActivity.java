@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // initialize
+        // push test for git branch
+
         init();
         points = 0;
     }
