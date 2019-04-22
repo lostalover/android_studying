@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         // initialize
         // push test for git branch
+        // jjh test git push
 
         init();
         points = 0;
