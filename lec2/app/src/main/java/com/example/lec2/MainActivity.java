@@ -1,5 +1,7 @@
 package com.example.lec2;
 
+// test for xml
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
