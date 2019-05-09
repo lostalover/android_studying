@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">lec3</string>
+    <string name="app_name">Dictionary</string>
+
+    <string-array name="person">
+        <item>gm.kim</item>
+        <item>soyun</item>
+        <item>lee</item>
+    </string-array>
 </resources>
