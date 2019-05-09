@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
         EditText edit = (EditText) findViewById(R.id.input_box);
         String text = edit.getText().toString();
         Toast.makeText(this, "You typed : " + text, Toast.LENGTH_SHORT).show();
-` `
         Log.d("harry", "The user types \""+text+"\"");
     }
 }
